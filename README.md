@@ -1,2 +1,1 @@
-My blog
-echo
+My blog hosted at ianha.com.
